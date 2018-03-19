@@ -1,0 +1,22 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/res/res.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/BitmapProp.js",
+		"bin-debug/Bitmap.js",
+		"bin-debug/BitmapAnimation.js",
+		"bin-debug/FontTest.js",
+		"bin-debug/Hello.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/MovieClip.js",
+		"bin-debug/MyText.js",
+		"bin-debug/SpriteSheet.js"
+	]
+}
