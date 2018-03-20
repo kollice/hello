@@ -9,14 +9,15 @@
 	],
 	"game": [
 		"bin-debug/BitmapProp.js",
-		"bin-debug/Bitmap.js",
 		"bin-debug/BitmapAnimation.js",
+		"bin-debug/Bitmap.js",
 		"bin-debug/FontTest.js",
 		"bin-debug/Hello.js",
-		"bin-debug/LoadingUI.js",
+		"bin-debug/SpriteSheet.js",
 		"bin-debug/Main.js",
 		"bin-debug/MovieClip.js",
 		"bin-debug/MyText.js",
-		"bin-debug/SpriteSheet.js"
+		"bin-debug/SoundTest.js",
+		"bin-debug/LoadingUI.js"
 	]
 }
